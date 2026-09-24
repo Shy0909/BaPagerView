@@ -1,0 +1,16 @@
+PODS:
+  - BaPagerView (0.1.0)
+
+DEPENDENCIES:
+  - BaPagerView (from `.`)
+
+EXTERNAL SOURCES:
+  BaPagerView:
+    :path: "."
+
+SPEC CHECKSUMS:
+  BaPagerView: b876f428ca07add288f1beb7b2301da386028fb4
+
+PODFILE CHECKSUM: 16e699f97951f16ee70ef55ca42b7eb458c9a5c2
+
+COCOAPODS: 1.16.2
